@@ -1,0 +1,28 @@
+section {
+  margin: 50px auto;
+  width: 40%;
+}
+
+.g_to_interact_with {
+  fill: transparent;
+  cursor: pointer;
+}
+
+#shadow_Image {
+  pointer-events: none;
+}
+
+path {
+  stroke-width: 2;
+}
+
+#color-box {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-size: 4em;
+}
